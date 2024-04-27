@@ -16,7 +16,7 @@
 <a href="https://www.youtube.com/channel/UCHsj2_OENnKCthNDeXNNobw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ajaychaudhary-zj2gw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ajay023_chaudha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ajay023_chaudha1" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/user6059Nz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user6059nz" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me/1221738421316489278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ajaychaudhary_96236" height="30" width="40" /></a>
+<a href="https://discord.gg/QyajQkfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ajaychaudhary_96236" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
