@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Chaudhary</h1>
-<h3 align="center">A passionate AI/ML Engineer from Nepal</h3>
+<h3 align="center">Passionate about cutting-edge tech and driven by a results-oriented mindset, I’m Ajay Chaudhary, a dedicated learner always eager to take on challenges. I strive to deliver efficient and impactful solutions while continuously learning and growing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azay961&label=Profile%20views&color=0e75b6&style=flat" alt="azay961" /> </p>
 
