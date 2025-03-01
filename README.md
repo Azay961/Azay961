@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ajay Chaudhary</h1>
 <h3 align="center">Passionate about innovative technologies and committed to achieving results, I excel at solving complex challenges with a professional and growth-focused mindset. My goal is to deliver impactful, efficient solutions while continuously enhancing my expertise and staying ahead in the field.</h3>
 
+## What to Expect from Me:
+
+- 🔹 **AWS Services** – S3, SQS, EC2 for scalable cloud solutions  
+- 🔹 **Backend Development** – Proficient in Flask & Django  
+- 🔹 **Amazon SP-API** – E-commerce automation & integration  
+- 🔹 **Version Control** – Git for seamless collaboration  
+- 🔹 **Scalability & Optimization** – Building efficient solutions  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azay961&label=Profile%20views&color=0e75b6&style=flat" alt="azay961" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azay961" alt="azay961" /></a> </p>
