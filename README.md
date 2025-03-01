@@ -3,11 +3,12 @@
 
 ## What to Expect from Me:
 
-- 🔹 **AWS Services** – S3, SQS, EC2 for scalable cloud solutions  
-- 🔹 **Backend Development** – Proficient in Flask & Django  
-- 🔹 **Amazon SP-API** – E-commerce automation & integration  
-- 🔹 **Version Control** – Git for seamless collaboration  
-- 🔹 **Scalability & Optimization** – Building efficient solutions  
+- **AWS Services** – S3, SQS, EC2 for scalable cloud solutions  
+- **Backend Development** – Proficient in Flask & Django  
+- **Amazon SP-API** – E-commerce automation & integration  
+- **Version Control** – Git for seamless collaboration  
+- **Scalability & Optimization** – Building efficient solutions  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azay961&label=Profile%20views&color=0e75b6&style=flat" alt="azay961" /> </p>
 
