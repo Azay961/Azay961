@@ -10,7 +10,7 @@
 - **Scalability & Optimization** – Building efficient solutions  
 
 
-<p align="left"> <img src="https://www.ajayc.com.np/_next/image?url=%2Fimages%2Fprofile1.png&w=25&q=25" alt="azay961" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1Ni6a2lLhl8_fC-cIxdNNO34LARJa9fex/view?usp=sharing" alt="azay961" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azay961" alt="azay961" /></a> </p>
 
