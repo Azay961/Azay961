@@ -12,12 +12,12 @@
 <h3 align="left">Connect with me:</h3>
 <table>
 <tr>
-<td><a href="https://linkedin.com/in/chaudharyajay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a></td>
-<td><a href="https://medium.com/@ajay023.chaudhary"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30"/></a></td>
-<td><a href="https://www.youtube.com/channel/UCHsj2_OENnKCthNDeXNNobw"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/></a></td>
-<td><a href="https://www.hackerrank.com/profile/ajay023chaudhary"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a></td>
-<td><a href="https://leetcode.com/u/user6059Nz/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a></td>
-<td><a href="https://discord.gg/QyajQkfr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/></a></td>
+<td><a href="https://linkedin.com/in/chaudharyajay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/></a></td>
+<td><a href="https://medium.com/@ajay023.chaudhary"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" height="30"/></a></td>
+<td><a href="https://www.youtube.com/channel/UCHsj2_OENnKCthNDeXNNobw"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" height="30"/></a></td>
+<td><a href="https://www.hackerrank.com/profile/ajay023chaudhary"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" height="30"/></a></td>
+<td><a href="https://leetcode.com/u/user6059Nz/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30"/></a></td>
+<td><a href="https://discord.gg/QyajQkfr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="30"/></a></td>
 </tr>
 </table>
 
