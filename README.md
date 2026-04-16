@@ -10,9 +10,7 @@
 - **Scalability & Optimization** – Building efficient solutions  
 
 <p align="center">
-  <a href="https://github.com/Azay961">
-    <img src="https://github-profile-trophy.vercel.app/?username=Azay961&theme=onedark&margin-w=10&margin-h=10"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Azay961&theme=onedark" />
 </p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
