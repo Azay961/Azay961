@@ -9,8 +9,11 @@
 - **Version Control** – Git for seamless collaboration  
 - **Scalability & Optimization** – Building efficient solutions  
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=Azay961)](https://github.com/ryo-ma/github-profile-trophy) </p>
-
+<p align="center">
+  <a href="https://github.com/Azay961">
+    <img src="https://github-profile-trophy.vercel.app/?username=Azay961&theme=onedark&margin-w=10&margin-h=10"/>
+  </a>
+</p>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
