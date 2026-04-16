@@ -10,7 +10,7 @@
 - **Scalability & Optimization** – Building efficient solutions  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azay961&label=Profile%20views&color=0e75b6&style=flat" alt="azay961" /> </p>
+<p align="left"> <img src="https://www.ajayc.com.np/_next/image?url=%2Fimages%2Fprofile1.png&w=384&q=75" alt="azay961" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azay961" alt="azay961" /></a> </p>
 
